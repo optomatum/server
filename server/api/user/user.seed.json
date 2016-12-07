@@ -1,0 +1,20 @@
+[
+  {
+    "username": "the name",
+    "password": "description",
+    "active": true,
+    "role": "admin"
+  },
+  {
+    "username": "the second name",
+    "password": "description #2",
+    "active": true,
+    "role": "admin"
+  },
+  {
+    "username": "a",
+    "password": "a",
+    "active": true,
+    "role": "admin"
+  }
+]
